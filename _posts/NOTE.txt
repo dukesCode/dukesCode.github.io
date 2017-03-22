@@ -1,0 +1,1 @@
+Hey, new posts must be titled with the YYYY-MM-DD-title-of-post.md convention. 
