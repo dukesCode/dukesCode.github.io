@@ -1,4 +1,4 @@
 name: Jean-Luc's blog/github Page
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
