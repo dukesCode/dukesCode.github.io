@@ -1,5 +1,5 @@
 name: Jean-Luc's blog/github Page
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
 timezone: America/Vancouver
